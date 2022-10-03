@@ -9,7 +9,7 @@ This project provides a predictor-based NAS method, and it is namely Siamese-Pre
 Paper Link: Coming soon !
 
 <div align=center>
-<img src=https://github.com/D0352276/Siamese-NAS/blob/main/demo/siamese_predictor.png width=100% />
+<img src=https://github.com/D0352276/Siamese-NAS/blob/main/demo/siams_predictor.png width=100% />
 </div>
 
 <div align=center>
