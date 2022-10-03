@@ -21,6 +21,9 @@ Paper Link: Coming soon !
 - [TensorFlow 2](https://www.tensorflow.org/)
 - [OpenCV](https://docs.opencv.org/4.5.2/d6/d00/tutorial_py_root.html)
 - [Numpy](http://www.numpy.org/)
+- [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
+- [NASBench-201](https://github.com/D-X-Y/NAS-Bench-201)
+
 
 
 ## Training and Evaluation for Paper Results
