@@ -6,7 +6,7 @@
 
 This project provides a predictor-based NAS method, and it is namely Siamese-Predictor. The siamese-predictor is constructed with the proposed Estimation Code, which is the prior knowledge about the training procedure. In our experiments, the proposed siamese-predictor surpasses the current SOTA predictor (BRP-NAS) on NASBench-201. We also propose the search space Tiny-NanoBench for lightweight CNN architecture. This well-designed search space is easier to find better architecture with few FLOPs than NASBench-201. 
 
-Paper Link: Coming soon !
+Paper Link: https://arxiv.org/abs/2210.00546
 
 <div align=center>
 <img src=https://github.com/D0352276/Siamese-NAS/blob/main/demo/siams_predictor.png width=100% />
